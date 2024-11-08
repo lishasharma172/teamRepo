@@ -5,7 +5,6 @@ public class TrialClass {
 		System.out.println("hello GITHUB by me");
 		System.out.println("checking");
 
-		System.out.println("Mayur");
-
+		System.out.println("Pranamya");
 		}
 }
