@@ -11,6 +11,6 @@ public class ProductPage {
 	 System.out.println("hi");
 	 System.out.println("hello ji");
 	 System.out.println("shalu");
-	 System.out.println("shalu hi he");
+	 System.out.println("shalu hi ");
 	}
 }
